@@ -1,2 +1,2 @@
-class suji:
+class kansuji:
     pass
