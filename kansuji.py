@@ -1,0 +1,2 @@
+class suji:
+    pass
